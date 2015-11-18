@@ -5,7 +5,7 @@ email: 4indespensables@googlegroups.com
 description: NFC Meeting Room Booking
 url: "http://tapnbook.github.io/"
 port: 4001
-github_username: mail.tapnbook
+github_username: tapnbook
 
 # Build settings
 markdown: kramdown
