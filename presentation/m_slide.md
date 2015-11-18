@@ -7,6 +7,6 @@ description: "Components Diagram"
 
 ## Visit Us
 
-- http://iotcaptain.github.io/ - Website
+- http://tapnbook.github.io/ - Website
 
 Feedback/Comments/Questions!!!!

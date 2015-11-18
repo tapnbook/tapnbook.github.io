@@ -3,9 +3,9 @@ title: Tap N Book
 header-img: img/homebackground.jpg
 email: 4indespensables@googlegroups.com
 description: NFC Meeting Room Booking
-url: "http://iotcaptain.github.io/"
+url: "http://tapnbook.github.io/"
 port: 4001
-github_username: iotcaptain
+github_username: mail.tapnbook
 
 # Build settings
 markdown: kramdown
