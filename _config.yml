@@ -1,0 +1,15 @@
+# site settings
+title: Tap N Book
+header-img: img/homebackground.jpg
+email: 4indespensables@googlegroups.com
+description: NFC Meeting Room Booking
+url: "http://tapnbook.github.io/"
+port: 4001
+github_username: iotcaptain
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
