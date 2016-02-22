@@ -118,7 +118,7 @@ description: "Book Meeting Room. Instantly!"
           <div class="service-content">
               <div class="inner-service">
                  <h3>Contribute</h3>
-                 <p class="service-content-p">To make it globally available within Bosch!!!</p>
+                 <p class="service-content-p">To make it globally available!!!</p>
               </div>
           </div> <!-- /.service-content -->
       </div> <!-- /#service-2 -->
